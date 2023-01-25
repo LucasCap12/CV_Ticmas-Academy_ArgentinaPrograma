@@ -22,4 +22,4 @@ En la sección "Portafolio" contiene un contenedor de diapositivas, dos botones 
 (https://github.com/marlondeve/Menu-v1)
 
 En resumen, este código es una página web de currículum en línea que utiliza Bootstrap, CSS y FontAwesome
-para estilizar y crear un menú desplegable, una tabla de 12 columnas y una sección de habilidades con indicadores de progreso.
+para estilizar y crear un menú desplegable, una tabla de 12 columnas y una sección de habilidades con indicadores de progreso y un contenedor de diapositivas.
